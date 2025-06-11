@@ -1,10 +1,10 @@
 # Olá, eu sou o João, desenvolvedor back-end em formação!
 
-#### Estudo programação desde 2020! Assim como a maioria comecei estudando HTML, CSS e Javascript. Entretanto, de uns tempos para cá acabei criando uma paixão misteriosa por Java, e desde então tenho estudado para me tornar um dev back-end! (ou ao menos continuar sendo fullstack)
+#### Estudo programação desde 2020! Assim como a maioria comecei estudando HTML, CSS e Javascript. Entretanto, de uns tempos para cá acabei criando uma paixão misteriosa por Java, e desde então tenho estudado para me tornar um dev back-end! (ou ao menos continuar sendo fullstack).
 
 #### Aproveite que já está aqui e conecte-se comigo no LinkedIn!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitor-fullstack-dev/)
 
 <div style="display: flex; align-items: center; flex-direction: column;">
 
