@@ -9,7 +9,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovitor-ma&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🌠 Projetos em destaque
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovitor-ma&repo=projeto-imoveis-sa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovitor-ma&repo=imoveis-sa-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/joaovitor-ma/imoveis-sa-api)
 
 ## 💻 Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
