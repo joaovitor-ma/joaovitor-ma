@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o <a href="https://www.linkedin.com/in/joaovitor-fullstack-dev/">João Vitor</a>, desenvolvedor back-end em formação!
+# 👋 Olá, eu sou o <a href="https://www.linkedin.com/in/joaovitor-fullstack-dev/" target="_blank">João Vitor</a>, desenvolvedor back-end em formação!
 
 #### Estudo programação desde 2020! Assim como a maioria comecei estudando HTML, CSS e Javascript. Entretanto, de uns tempos para cá acabei criando uma paixão misteriosa por Java, e desde então tenho estudado para me tornar um dev back-end! (ou ao menos continuar sendo fullstack).
 
