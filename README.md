@@ -16,5 +16,6 @@ Gosto de tirar do papel ideias e conceitos de assuntos que me interessam.<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+Fun Facts: 
 - Amo gatos
 - Adoro jogar RPG e jogos online no geral!
