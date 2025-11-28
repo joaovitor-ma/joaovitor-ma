@@ -1,7 +1,7 @@
 # 👋 Olá!
-Eu sou o <a href="https://www.linkedin.com/in/joaovacbackend" target="_blank" style="text-decoration: underline;">João Vitor</a>.
-Desenvolvedor Back-end trabalhando com Java e Spring Boot.
-Gosto de tirar do papel ideias e conceitos de assuntos que me interessam.
+Eu sou o <a href="https://www.linkedin.com/in/joaovacbackend" target="_blank" style="text-decoration: underline;">João Vitor</a>.<br>
+Desenvolvedor Back-end trabalhando com Java e Spring Boot.<br>
+Gosto de tirar do papel ideias e conceitos de assuntos que me interessam.<br>
 Adoro jogar RPG e jogos online no geral!
 
 ## 💻 Tecnologias
