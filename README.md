@@ -1,6 +1,5 @@
 # 👋 Olá!
-#### Eu sou o <a href="https://www.linkedin.com/in/joaovacbackend" target="_blank" style="text-decoration: underline">João Vitor</a>, desenvolvedor back-end em formação!
-#### Gosto de transformar conceitos em sistemas completos e minha paixão é mexer com a parte tecnica da coisa.
+#### Eu sou o <a href="https://www.linkedin.com/in/joaovacbackend" target="_blank" style="text-decoration: underline">João Vitor</a>, desenvolvedor back-end em formação! <br> Gosto de transformar conceitos em sistemas completos e minha paixão é mexer com a parte tecnica da coisa.
 
 ## 💻 Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
