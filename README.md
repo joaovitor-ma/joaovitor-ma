@@ -17,4 +17,4 @@ Desenvolvedor Back-end trabalhando com Java e Spring Boot.<br>
 
 Fun Facts: 
 - Amo gatos 😼
-- Adoro jogar RPG e jogos online no geral! 🎲
+- Adoro jogar RPG de mesa e jogos online no geral! 🎲
