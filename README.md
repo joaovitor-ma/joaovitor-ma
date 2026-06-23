@@ -24,4 +24,4 @@ Desenvolvedor Back-end com Node.js e Spring.<br>
 
 Fun Facts: 
 - Amo gatos 😼
-- Adoro jogar RPG de mesa e jogos online no geral! 🎲
+- Adoro jogar RPG de mesa e jogos online no geral! 🎲🎮
